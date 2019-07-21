@@ -1,1 +1,1 @@
-[link]('https://www.javatpoint.com/java-awt')
+[link](https://www.javatpoint.com/java-awt)
