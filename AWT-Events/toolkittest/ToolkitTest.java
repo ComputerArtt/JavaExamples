@@ -27,7 +27,7 @@ public class ToolkitTest extends Frame{
         button.setBounds(100, 100, 50, 50);
         add(button);
         
-        Image img = Toolkit.getDefaultToolkit().getImage("D:\\REST\\TWİTT\\IMG_20181231_210942.jpeg");
+        Image img = Toolkit.getDefaultToolkit().getImage("image.jpeg");
         setIconImage(img);
         
         button.addActionListener(new ActionListener() {
